@@ -1,10 +1,10 @@
 com/bridgelabz/INode.java
  com.bridgelabz.INode
-com/bridgelabz/Node.java
- com.bridgelabz.Node
 com/bridgelabz/HashMap.java
  com.bridgelabz.HashMap
 com/bridgelabz/MyMapNode.java
  com.bridgelabz.MyMapNode
 com/bridgelabz/MyLinkedList.java
  com.bridgelabz.MyLinkedList
+com/bridgelabz/LinkedHashMap.java
+ com.bridgelabz.LinkedHashMap
