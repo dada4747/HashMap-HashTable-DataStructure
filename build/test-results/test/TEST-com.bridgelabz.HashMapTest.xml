@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.bridgelabz.HashMapTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-06-10T17:07:04" hostname="DESKTOP-4IPP4FC" time="0.047">
+<testsuite name="com.bridgelabz.HashMapTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-06-10T17:24:48" hostname="DESKTOP-4IPP4FC" time="0.1">
   <properties/>
-  <testcase name="givenASentenceWhenWordsAreAddedShouldReturnWordFrequency()" classname="com.bridgelabz.HashMapTest" time="0.047"/>
+  <testcase name="givenASentence_WhenWordsAreRemoved_ShouldReturnRemovedWord()" classname="com.bridgelabz.HashMapTest" time="0.1"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
